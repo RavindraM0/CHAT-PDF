@@ -40,4 +40,6 @@ RMO-Insight/
 
 ## TO RUN IN VisualCODE
        python -m run stramlit app.py
+## DEPLOYED ON STREAM LIT
+       https://rag-rmo-insight.streamlit.app/
 
